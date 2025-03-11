@@ -295,7 +295,7 @@ body {
     }
 
     .theme-card img {
-        height: 200px;
+        height: 250px;
     }
 
     .form-group {
@@ -395,7 +395,8 @@ body {
     }
 
     .theme-card img {
-        height: 150px;
+        height: 350px;
+        width: 100%;
     }
 
     .form-control {
@@ -647,7 +648,8 @@ html {
     }
 
     .theme-card img {
-        height: 180px;
+        height: 300px;
+        width: 100%;
     }
 
     /* Show preview on mobile */
